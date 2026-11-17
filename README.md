@@ -74,7 +74,7 @@ scripts\run_from_source.bat        запуск с консолью
 scripts\build.bat 1.0.0            сборка установщика (нужен Inno Setup 6)
 ```
 
-Релиз: создайте тег `vX.Y.Z` и запушьте его — GitHub Actions соберёт установщик и прикрепит к релизу.
+Релиз: на GitHub откройте Releases → Draft a new release, создайте тег `vX.Y.Z` и нажмите Publish — GitHub Actions соберёт установщик и прикрепит его к релизу (5–10 минут). При каждом пуше в `main` установщик собирается для проверки и доступен во вкладке Actions.
 
 ---
 
