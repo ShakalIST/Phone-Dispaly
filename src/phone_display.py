@@ -14,7 +14,7 @@ phone_display.py — Android-телефон как второй монитор �
          --list            список мониторов
          --monitor 2 --fps 30 --quality 70
 
-https://github.com/ShakalIST/phone-display   (MIT)
+https://github.com/ShakalIST/Phone-Dispaly   (MIT)
 """
 __version__ = "1.0.0"
 import argparse

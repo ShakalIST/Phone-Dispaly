@@ -7,7 +7,7 @@
 #endif
 #define AppName "Phone Display"
 #define AppExe "PhoneDisplay.exe"
-#define AppUrl "https://github.com/ShakalIST/phone-display"
+#define AppUrl "https://github.com/ShakalIST/Phone-Dispaly"
 
 [Setup]
 AppId={{7C3E2B1A-5D4F-4E8B-9A61-2F0C8D7E4B13}

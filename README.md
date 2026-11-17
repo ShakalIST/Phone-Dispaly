@@ -68,8 +68,8 @@ PhoneDisplay.exe --no-touch         только показ, без управл
 ## Сборка из исходников
 
 ```
-git clone https://github.com/ShakalIST/phone-display
-cd phone-display
+git clone https://github.com/ShakalIST/Phone-Dispaly
+cd Phone-Dispaly
 scripts\run_from_source.bat        запуск с консолью
 scripts\build.bat 1.0.0            сборка установщика (нужен Inno Setup 6)
 ```
